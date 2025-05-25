@@ -1,0 +1,43 @@
+# Build results
+bin/
+obj/
+*.dll
+*.exe
+*.app
+*.so
+*.dylib
+*.pdb
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# VS Code settings
+.vscode/
+
+# Logs
+*.log
+
+# Database files
+*.dbmdl
+
+# Others
+*.cache
+*.tlog
+*.ide
+
+# Rider settings
+.idea/
+*.sln.iml
+
+# Entity Framework
+Migrations/
+
+# Dotnet artifacts
+*.generated.cs
